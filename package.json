@@ -2,15 +2,19 @@
   "name": "gpt-data-cortex",
   "version": "0.0.1",
   "type": "module",
-  "description": "GPT - langchain - testing ground",
-  "main": "index.js",
-  "author": "Tidya",
+  "description": "GPT - LangChain - battle ground",
+  "main": "src/index.ts",
+  "author": "Espen Ønvik Pedersen",
   "license": "MIT",
   "bin": {
-    "index": "index.js"
+    "index": "src/index.ts"
   },
   "dependencies": {
     "dotenv": "^16.3.1",
     "langchain": "^0.0.157"
+  },
+  "devDependencies": {
+    "bun-types": "^1.0.4-canary.20231003T140149",
+    "typescript": "^5.2.2"
   }
 }
