@@ -1,0 +1,16 @@
+{
+  "name": "gpt-data-cortex",
+  "version": "0.0.1",
+  "type": "module",
+  "description": "GPT - langchain - testing ground",
+  "main": "index.js",
+  "author": "Tidya",
+  "license": "MIT",
+  "bin": {
+    "index": "index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "langchain": "^0.0.157"
+  }
+}
