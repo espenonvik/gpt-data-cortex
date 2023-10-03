@@ -1,5 +1,5 @@
 # GPT Data Cortex 🧠
-PLaying with LangChain and Open AI
+Playing with LangChain and Open AI
 
 ## Pre-requisites
 - [Bun runtime](https://bun.sh) 
