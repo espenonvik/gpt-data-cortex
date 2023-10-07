@@ -1,7 +1,7 @@
 # GPT Data Cortex 🧠
 Playing with LangChain and OpenAI
 
-## Pre-requisites
+## Prerequisites
 - [Bun runtime](https://bun.sh) 
 - Add your OpenAI API key to a .env file in the root of the project 🔐
 ```
